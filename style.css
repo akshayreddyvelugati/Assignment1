@@ -1,16 +1,13 @@
-
 h1 {
     font-size: 28px;
     letter-spacing: 2px;
     font-weight: bold;
 }
- Modify the link styles */
 a {
     color: #083463;
     text-decoration: none;
     font-weight: bold;
 }
-
 a:hover {
     color: #2c1da1;
     text-decoration: underline;
